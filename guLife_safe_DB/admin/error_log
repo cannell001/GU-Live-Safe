@@ -1,0 +1,40 @@
+[03-Nov-2016 23:31:16 America/Chicago] PHP Warning:  mysql_connect(): Access denied for user 'root'@'localhost' (using password: YES) in /home/gulivesafe/public_html/admin/dbconnection.php on line 3
+[03-Nov-2016 23:31:16 America/Chicago] PHP Warning:  mysql_query(): Access denied for user 'root'@'localhost' (using password: NO) in /home/gulivesafe/public_html/admin/login.php on line 8
+[03-Nov-2016 23:31:16 America/Chicago] PHP Warning:  mysql_query(): A link to the server could not be established in /home/gulivesafe/public_html/admin/login.php on line 8
+[03-Nov-2016 23:31:16 America/Chicago] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/gulivesafe/public_html/admin/login.php on line 9
+[03-Nov-2016 23:31:24 America/Chicago] PHP Warning:  mysql_connect(): Access denied for user 'root'@'localhost' (using password: YES) in /home/gulivesafe/public_html/admin/dbconnection.php on line 3
+[03-Nov-2016 23:31:24 America/Chicago] PHP Warning:  mysql_query(): Access denied for user 'root'@'localhost' (using password: NO) in /home/gulivesafe/public_html/admin/login.php on line 8
+[03-Nov-2016 23:31:24 America/Chicago] PHP Warning:  mysql_query(): A link to the server could not be established in /home/gulivesafe/public_html/admin/login.php on line 8
+[03-Nov-2016 23:31:24 America/Chicago] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/gulivesafe/public_html/admin/login.php on line 9
+[03-Nov-2016 23:31:32 America/Chicago] PHP Warning:  mysql_connect(): Access denied for user 'root'@'localhost' (using password: YES) in /home/gulivesafe/public_html/admin/dbconnection.php on line 3
+[03-Nov-2016 23:31:32 America/Chicago] PHP Warning:  mysql_query(): Access denied for user 'root'@'localhost' (using password: NO) in /home/gulivesafe/public_html/admin/login.php on line 8
+[03-Nov-2016 23:31:32 America/Chicago] PHP Warning:  mysql_query(): A link to the server could not be established in /home/gulivesafe/public_html/admin/login.php on line 8
+[03-Nov-2016 23:31:32 America/Chicago] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/gulivesafe/public_html/admin/login.php on line 9
+[03-Nov-2016 23:31:47 America/Chicago] PHP Warning:  mysql_connect(): Access denied for user 'root'@'localhost' (using password: YES) in /home/gulivesafe/public_html/admin/dbconnection.php on line 3
+[03-Nov-2016 23:31:47 America/Chicago] PHP Warning:  mysql_query(): Access denied for user 'root'@'localhost' (using password: NO) in /home/gulivesafe/public_html/admin/login.php on line 8
+[03-Nov-2016 23:31:47 America/Chicago] PHP Warning:  mysql_query(): A link to the server could not be established in /home/gulivesafe/public_html/admin/login.php on line 8
+[03-Nov-2016 23:31:47 America/Chicago] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/gulivesafe/public_html/admin/login.php on line 9
+[09-Nov-2016 00:05:18 America/Chicago] PHP Warning:  mysql_connect(): Access denied for user 'root'@'localhost' (using password: YES) in /home/gulivesafe/public_html/admin/dbconnection.php on line 3
+[09-Nov-2016 00:05:18 America/Chicago] PHP Warning:  mysql_query(): Access denied for user 'root'@'localhost' (using password: NO) in /home/gulivesafe/public_html/admin/login.php on line 8
+[09-Nov-2016 00:05:18 America/Chicago] PHP Warning:  mysql_query(): A link to the server could not be established in /home/gulivesafe/public_html/admin/login.php on line 8
+[09-Nov-2016 00:05:18 America/Chicago] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/gulivesafe/public_html/admin/login.php on line 9
+[09-Nov-2016 00:05:39 America/Chicago] PHP Warning:  mysql_connect(): Access denied for user 'root'@'localhost' (using password: YES) in /home/gulivesafe/public_html/admin/dbconnection.php on line 3
+[09-Nov-2016 00:05:39 America/Chicago] PHP Warning:  mysql_query(): Access denied for user 'root'@'localhost' (using password: NO) in /home/gulivesafe/public_html/admin/login.php on line 8
+[09-Nov-2016 00:05:39 America/Chicago] PHP Warning:  mysql_query(): A link to the server could not be established in /home/gulivesafe/public_html/admin/login.php on line 8
+[09-Nov-2016 00:05:39 America/Chicago] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/gulivesafe/public_html/admin/login.php on line 9
+[14-Nov-2016 05:44:39 America/Chicago] PHP Warning:  mysql_connect(): Access denied for user 'root'@'localhost' (using password: YES) in /home/gulivesafe/public_html/admin/dbconnection.php on line 3
+[14-Nov-2016 05:44:39 America/Chicago] PHP Warning:  mysql_query(): Access denied for user 'gulivesafe'@'localhost' (using password: NO) in /home/gulivesafe/public_html/admin/login.php on line 8
+[14-Nov-2016 05:44:39 America/Chicago] PHP Warning:  mysql_query(): A link to the server could not be established in /home/gulivesafe/public_html/admin/login.php on line 8
+[14-Nov-2016 05:44:39 America/Chicago] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/gulivesafe/public_html/admin/login.php on line 9
+[14-Nov-2016 05:44:45 America/Chicago] PHP Warning:  mysql_connect(): Access denied for user 'root'@'localhost' (using password: YES) in /home/gulivesafe/public_html/admin/dbconnection.php on line 3
+[14-Nov-2016 05:44:45 America/Chicago] PHP Warning:  mysql_query(): Access denied for user 'gulivesafe'@'localhost' (using password: NO) in /home/gulivesafe/public_html/admin/login.php on line 8
+[14-Nov-2016 05:44:45 America/Chicago] PHP Warning:  mysql_query(): A link to the server could not be established in /home/gulivesafe/public_html/admin/login.php on line 8
+[14-Nov-2016 05:44:45 America/Chicago] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/gulivesafe/public_html/admin/login.php on line 9
+[22-Nov-2016 23:34:40 America/Chicago] PHP Warning:  mysql_connect(): Access denied for user 'root'@'localhost' (using password: YES) in /home/gulivesafe/public_html/admin/dbconnection.php on line 3
+[22-Nov-2016 23:34:40 America/Chicago] PHP Warning:  mysql_query(): Access denied for user 'gulivesafe'@'localhost' (using password: NO) in /home/gulivesafe/public_html/admin/login.php on line 8
+[22-Nov-2016 23:34:40 America/Chicago] PHP Warning:  mysql_query(): A link to the server could not be established in /home/gulivesafe/public_html/admin/login.php on line 8
+[22-Nov-2016 23:34:40 America/Chicago] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/gulivesafe/public_html/admin/login.php on line 9
+[22-Nov-2016 23:34:47 America/Chicago] PHP Warning:  mysql_connect(): Access denied for user 'root'@'localhost' (using password: YES) in /home/gulivesafe/public_html/admin/dbconnection.php on line 3
+[22-Nov-2016 23:34:47 America/Chicago] PHP Warning:  mysql_query(): Access denied for user 'gulivesafe'@'localhost' (using password: NO) in /home/gulivesafe/public_html/admin/login.php on line 8
+[22-Nov-2016 23:34:47 America/Chicago] PHP Warning:  mysql_query(): A link to the server could not be established in /home/gulivesafe/public_html/admin/login.php on line 8
+[22-Nov-2016 23:34:47 America/Chicago] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/gulivesafe/public_html/admin/login.php on line 9

@@ -1,0 +1,26 @@
+[04-Nov-2016 07:42:26 America/Chicago] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home/gulivesafe/public_html/json_forgetpass.php on line 70
+[04-Nov-2016 07:42:31 America/Chicago] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home/gulivesafe/public_html/json_forgetpass.php on line 70
+[04-Nov-2016 07:43:05 America/Chicago] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home/gulivesafe/public_html/json_forgetpass.php on line 70
+[04-Nov-2016 07:46:50 America/Chicago] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home/gulivesafe/public_html/json_forgetpass.php on line 65
+[04-Nov-2016 08:23:17 America/Chicago] PHP Parse error:  syntax error, unexpected '@' in /home/gulivesafe/public_html/json_forgetpass.php on line 37
+[04-Nov-2016 08:30:51 America/Chicago] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home/gulivesafe/public_html/json_forgetpass.php on line 44
+[04-Nov-2016 08:31:57 America/Chicago] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home/gulivesafe/public_html/json_forgetpass.php on line 44
+[04-Nov-2016 08:32:09 America/Chicago] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home/gulivesafe/public_html/json_forgetpass.php on line 44
+[04-Nov-2016 08:32:39 America/Chicago] PHP Parse error:  syntax error, unexpected 'pass' (T_STRING) in /home/gulivesafe/public_html/json_forgetpass.php on line 44
+[04-Nov-2016 08:32:55 America/Chicago] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home/gulivesafe/public_html/json_forgetpass.php on line 44
+[04-Nov-2016 08:35:01 America/Chicago] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home/gulivesafe/public_html/json_forgetpass.php on line 44
+[04-Nov-2016 08:35:25 America/Chicago] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home/gulivesafe/public_html/json_forgetpass.php on line 35
+[04-Nov-2016 08:36:24 America/Chicago] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home/gulivesafe/public_html/json_forgetpass.php on line 35
+[04-Nov-2016 08:38:49 America/Chicago] PHP Parse error:  syntax error, unexpected 'pass' (T_STRING), expecting ',' or ';' in /home/gulivesafe/public_html/json_forgetpass.php on line 35
+[04-Nov-2016 08:39:18 America/Chicago] PHP Parse error:  syntax error, unexpected 'pass' (T_STRING), expecting ',' or ';' in /home/gulivesafe/public_html/json_forgetpass.php on line 35
+[04-Nov-2016 08:39:38 America/Chicago] PHP Parse error:  syntax error, unexpected 'pass' (T_STRING), expecting ',' or ';' in /home/gulivesafe/public_html/json_forgetpass.php on line 35
+[08-Nov-2016 07:40:42 America/Chicago] PHP Warning:  move_uploaded_file(http://www.gulivesafe.com/img/VID_20161108_191026070.mp4): failed to open stream: HTTP wrapper does not support writeable connections in /home/gulivesafe/public_html/upload.php on line 8
+[08-Nov-2016 07:40:42 America/Chicago] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpjpVz5n' to 'http://www.gulivesafe.com/img/VID_20161108_191026070.mp4' in /home/gulivesafe/public_html/upload.php on line 8
+[08-Nov-2016 07:58:49 America/Chicago] PHP Warning:  POST Content-Length of 10516071 bytes exceeds the limit of 8388608 bytes in Unknown on line 0
+[08-Nov-2016 07:59:43 America/Chicago] PHP Warning:  POST Content-Length of 10516071 bytes exceeds the limit of 8388608 bytes in Unknown on line 0
+[08-Nov-2016 08:01:02 America/Chicago] PHP Warning:  POST Content-Length of 9501264 bytes exceeds the limit of 8388608 bytes in Unknown on line 0
+[08-Nov-2016 23:10:12 America/Chicago] PHP Warning:  POST Content-Length of 42294476 bytes exceeds the limit of 8388608 bytes in Unknown on line 0
+[08-Nov-2016 23:11:08 America/Chicago] PHP Warning:  POST Content-Length of 42294476 bytes exceeds the limit of 8388608 bytes in Unknown on line 0
+[08-Nov-2016 23:18:45 America/Chicago] PHP Warning:  POST Content-Length of 42294476 bytes exceeds the limit of 8388608 bytes in Unknown on line 0
+[08-Nov-2016 23:23:56 America/Chicago] PHP Warning:  POST Content-Length of 19085874 bytes exceeds the limit of 8388608 bytes in Unknown on line 0
+[08-Nov-2016 23:25:52 America/Chicago] PHP Warning:  POST Content-Length of 20617854 bytes exceeds the limit of 8388608 bytes in Unknown on line 0
